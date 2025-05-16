@@ -88,6 +88,20 @@ Upload the code and open Serial Monitor for debugging.
 Once connected, the ESP32 will print its IP address.
 Open that IP in a browser to view and print the bill.
 
+### 📷 Project Images
+1. Hardware Setup
+![hardware](https://github.com/user-attachments/assets/11bfa7cf-a05e-4e04-9deb-e2a026fe6e14)
+
+2. RFID Scanning Process
+![hardware](https://github.com/user-attachments/assets/4582b89c-5e92-4e5d-9900-430dd3e69627)
+
+3. OLED Display Output
+![oled display](https://github.com/user-attachments/assets/d6ae0d57-0040-4186-9107-a1cce2e02968)
+
+
+4. Web Interface
+![image](https://github.com/user-attachments/assets/77a15cea-a220-44b8-a4fb-ba06eb0ee189)
+
 ---
 
 ## 📄 License
